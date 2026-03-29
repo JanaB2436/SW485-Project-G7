@@ -1,5 +1,5 @@
 XGBoost Classification Report:
-5-Fold CV F1 Score: 0.793 Â± 0.076
+5-Fold CV F1 Score: 0.793 ± 0.076
 ------------------------------
               precision    recall  f1-score   support
 
